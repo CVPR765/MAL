@@ -1,5 +1,6 @@
 # MAL
 MAL for cvpr765
+https://arxiv.org/abs/1912.02252
 
 
 ## install
@@ -22,3 +23,6 @@ For val set, run
 
 ## experimental result
 mAP = 47.0 on test-dev
+
+## to do
+clean the training code
