@@ -1,6 +1,5 @@
 # MAL
 MAL for cvpr765
-https://arxiv.org/abs/1912.02252
 
 
 ## install
